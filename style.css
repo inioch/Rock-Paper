@@ -43,7 +43,7 @@ button:hover{
 
 }
 .restart{
-    margin-top: 100px;
-    position: fixed;
-    margin-left: 65vw;
+    position: absolute;
+    top: 75%;
+    left: 70%;
 }
